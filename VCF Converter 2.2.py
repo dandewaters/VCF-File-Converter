@@ -3,7 +3,7 @@
 # Date Created: 4/3/2019
 # Python version: 3.6
 # Description: Converts files in Variant Calling Format to 
-#			   Heterozygous Allele Depth format or Colony format
+#              Heterozygous Allele Depth format or Colony format
 #================================================================
 
 
