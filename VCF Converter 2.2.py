@@ -15,8 +15,8 @@ import os
 import re
 
 # Directories for input and output
-VCFFOLDERDIR = "C:\\Users\\dande\\OneDrive\\Dan School\\UMBC\\Lab\\File Converter 2.1\\VCF Files\\"
-CONVERTEDFILEFOLDER = "C:\\Users\\dande\\OneDrive\\Dan School\\UMBC\\Lab\\File Converter 2.1\\Converted Files\\"
+VCFFOLDERDIR = "C:\\Users\\"
+CONVERTEDFILEFOLDER = "C:\\Users\\"
 
 # Specimen class, used for the purpose of organizing the data in these files
 # Consists of a string to repesent the name of the specimen (E.g. 10a), and
