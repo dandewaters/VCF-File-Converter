@@ -309,7 +309,7 @@ def main():
 				remDubHet = None
 
 			# Checks for wrong inputs
-			if(remDubHet == None):
+			if(remDubHet != None):
 				# Begins converting VCF files in input folder to HAD format
 				for VCFFileName in VCFFileList:
 					VCFFileContents = openVCF(VCFFileName)
