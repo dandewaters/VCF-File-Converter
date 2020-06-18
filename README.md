@@ -1,4 +1,9 @@
+## Update:
+
+This program has been rewritten as an R package. [Come check it out here!](https://github.com/dandewaters/VCF2Ploidy)
+
 # VCF-File-Converter
+
 Converts files in Variant-Calling Format (VCF) to Heterozygous Allele Depth Format (HAD), the format required for GBS2Ploidy. Also converts VCF files to the format for COLONY software.
  
  This program must be run on a Windows machine
